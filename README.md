@@ -1,4 +1,11 @@
-# PKPD library
+# Info
+Source code for the paper:
+
+Siivola E, Weber S, Vehtari A. Qualifying drug dosing regimens in pediatrics using
+Gaussian processes. Statistics in Medicine. 2021;1–18. https://doi.org/10.1002/sim.8907
+
+Link to the online version of the paper [https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8907](https://onlinelibrary.wiley.com/doi/full/10.1002/sim.8907)
+
 NOTE: Stan >= 2.11 is required
 
 ## Quick Start
